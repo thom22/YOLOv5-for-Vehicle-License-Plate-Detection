@@ -1,1 +1,18 @@
 # YOLOv5-for-Vehicle-License-Plate-Detection
+
+
+'''
+numpy==1.17
+scipy==1.4.1
+cudatoolkit==10.2.89
+opencv-python
+torch==1.5
+torchvision==0.6.0
+matplotlib
+pycocotools
+tqdm
+pillow
+tensorboard
+pyyaml
+
+'''
