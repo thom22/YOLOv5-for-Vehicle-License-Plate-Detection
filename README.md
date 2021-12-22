@@ -1,7 +1,7 @@
 # YOLOv5-for-Vehicle-License-Plate-Detection
 
 
-'''
+```
 numpy==1.17
 scipy==1.4.1
 cudatoolkit==10.2.89
@@ -15,4 +15,4 @@ pillow
 tensorboard
 pyyaml
 
-'''
+```
