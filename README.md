@@ -1,6 +1,6 @@
 # YOLOv5-for-Vehicle-License-Plate-Detection
 
-## Requirment
+## Requirments
 ```
 numpy==1.17
 scipy==1.4.1
